@@ -1,4 +1,6 @@
-asgiref==3.10.0
 Django==5.2.7
-sqlparse==0.5.3
 psycopg==3.2.10
+djangorestframework==3.16.1
+django-filter==25.2
+markdown==3.9
+djangorestframework_simplejwt==5.5.1
